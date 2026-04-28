@@ -1,0 +1,1 @@
+body { background:#111; color:white; text-align:center; font-family:sans-serif; } #drop { border:2px dashed #555; padding:40px; margin:20px; } #progress { width:80%; height:20px; background:#333; margin:20px auto; } #bar { height:100%; width:0%; background:#00ffcc; }
